@@ -1,0 +1,44 @@
+{
+  "sales": [
+    {
+      "id": "summer_2026",
+      "name": "Summer Sale 2026",
+      "emoji": "☀️",
+      "color": "#e8a838",
+      "start": "2026-06-25T10:00:00Z",
+      "end":   "2026-07-09T10:00:00Z"
+    },
+    {
+      "id": "autumn_2026",
+      "name": "Autumn Sale 2026",
+      "emoji": "🍂",
+      "color": "#c4622d",
+      "start": "2026-10-28T10:00:00Z",
+      "end":   "2026-11-01T10:00:00Z"
+    },
+    {
+      "id": "winter_2026",
+      "name": "Winter Sale 2026",
+      "emoji": "❄️",
+      "color": "#66c0f4",
+      "start": "2026-12-22T10:00:00Z",
+      "end":   "2027-01-05T10:00:00Z"
+    },
+    {
+      "id": "spring_2027",
+      "name": "Spring Sale 2027",
+      "emoji": "🌸",
+      "color": "#a4d007",
+      "start": "2027-03-20T10:00:00Z",
+      "end":   "2027-03-27T10:00:00Z"
+    },
+    {
+      "id": "summer_2027",
+      "name": "Summer Sale 2027",
+      "emoji": "☀️",
+      "color": "#e8a838",
+      "start": "2027-06-25T10:00:00Z",
+      "end":   "2027-07-10T10:00:00Z"
+    }
+  ]
+}
